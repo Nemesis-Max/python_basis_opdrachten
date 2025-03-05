@@ -17,5 +17,3 @@ Je vind meer uitleg over string-methoden op [w3schools python string-methods](ht
 Zorg ervoor dat de volgende zin op het scherm verschijnt:
 
 > De letter "t" komt 10x voor in my_string
-
-
